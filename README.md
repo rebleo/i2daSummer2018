@@ -1,6 +1,6 @@
 ## Intro 2 Digital Animation, Summer 2018
-#### Arts 193, June 4 - 27
-#### Monday, Tuesday, Wednesday + Thursday 1:00 - 4:50 pm || SB A135A, Queens College
+#### Arts 193, June 4 - 27 | Queens College
+#### Monday, Tuesday, Wednesday + Thursday 1:00 - 4:50 pm || SB A135A
 
 	Professor: Rebecca Leopold
 	Email: Rebecca.Leopold@qc.cuny.edu
@@ -23,7 +23,7 @@ Drawing skills are not necessary for this class, however, students are required 
 
 ---
 #### “Share” (or the class Wiki):
-The [class wiki](https://github.com/rebleo/i2daSpring2018/wiki) is where the rest of the syllabus including each day's resources, in-class and take-home assignments will be found. To turn in your homework you must link to it every day on the class wiki. You are required to post on the wiki. To contribute to the wiki you must set up a [Github](http://www.github.com) account. We will do this in class on the first day.
+The [class wiki](https://github.com/rebleo/i2daSummer2018/wiki) is where the rest of the syllabus including each day's resources, in-class and take-home assignments will be found. To turn in your homework you must link to it every day on the class wiki. You are required to post on the wiki. To contribute to the wiki you must set up a [Github](http://www.github.com) account. We will do this in class on the first day.
 
 ---
 #### Blog:
@@ -43,10 +43,12 @@ Your device is required for the course. Make it a tool for you to use in this cl
 ---
 #### Reading:
 * Required:
-  * tbd
+  * TBD: PDF files will be linked on the class wiki
 * Suggested:
-  * The Illusion of Life: Disney Animation - Frank Thomas and Ollie Johnson
-  * The Animator’s Survival Kit - Richard Williams
+  * [Understanding Comics](http://scottmccloud.com/2-print/1-uc/)
+	* [Motion Graphics](https://www.amazon.com/Motion-Graphics-Principles-Practices-Required/dp/1472569008) - Ian Crook +  Peter Beare
+  * [The Illusion of Life: Disney Animation](https://www.amazon.com/Illusion-Life-Disney-Animation/dp/0786860707) - Frank Thomas and Ollie Johnson
+  * [The Animator’s Survival Kit](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X/ref=sr_1_1?ie=UTF8&qid=1503697966&sr=8-1&keywords=animators+survival+kit) - Richard Williams
 
 ---
 #### Assignments:
