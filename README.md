@@ -2,10 +2,8 @@
 #### Arts 193, June 4-27, 2018
 Monday, Tuesday, Wednesday + Thursday 1:00 - 4:50 pm || SB A135A, Queens College
 
-[Find the class wiki here](https://github.com/rebleo/i2daSummer2018/wiki)
-
 	Professor: Rebecca Leopold || Rebecca.Leopold@qc.cuny.edu
-	Course Wiki: https://github.com/rebleo/i2daSpring2018/wiki
+	[Course Wiki](https://github.com/rebleo/i2daSpring2018/wiki)
 
 #### Course Description:
 This course explores the fundamentals of storytelling through sequential image making. The focus is to introduce students to a variety of animation techniques, vocabulary, tools and history. Students will create three potential portfolio pieces while learning the basics of Stop Motion, Adobe Photoshop, Premiere and After Effects— to create, digitize and animate artwork. 
@@ -32,14 +30,13 @@ Your device is required for the course. Make it a tool for you to use in this cl
 
 #### Reading:
 * Required:
- ** Understanding Comics - Scott McCloud
- ** Motion Graphics - Ian Crook and Peter Bear
+  * tbd
 * Suggested:
- ** The Illusion of Life: Disney Animation - Frank Thomas and Ollie Johnson
- ** The Animator’s Survival Kit - Richard Williams
+  * The Illusion of Life: Disney Animation - Frank Thomas and Ollie Johnson
+  * The Animator’s Survival Kit - Richard Williams
 
 #### Assignments:
-Every week students will be asked to read, watch and share a variety of media experiences as well as share the work they create during in class discussion and critique. Every week will be different. Please pay close attention to the syllabus online as these may change throughout the semester.
+Every class students will be asked to read, watch and share a variety of media experiences as well as share the work they create during in class discussion and critique. Every class will be different. Please pay close attention to the syllabus online as these may change throughout the semester.
 
 #### Blog:
 Students will be asked to share images or videos as a means to turn in homework assignments. Students should set up and maintain a personal blog for this purpose. There are many free options that will offer you enough storage space for the semester. I suggest Wordpress or Medium but choose whatever platform you prefer.
