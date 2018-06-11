@@ -15,8 +15,6 @@ Students are expected to participate in class: contributing to class discussions
 
 It is your responsibility to turn in work on time, to make up any missed assignments, and to catch up with the class in the event of an absence. Late work is unacceptable; however, this work can be turned in for partial credit. If you know you are going to be absent, contact the professor by email in advance.
 
-Students will be required to do research on one animation studio of their choosing. In week 10, they will present their findings to the class. Students can present their research in any way they choose but must give a 7 minute oral presentation complete with slide deck.
-
 You are required to maintain a blog for this class. This is where you will post your homework assignments to then link to our class wiki. Think of it like a digital sketchbook - the blog is not meant to be a finished portfolio site, but a place for your creative process and works in progress.
 
 Drawing skills are not necessary for this class, however, students are required to keep a sketchbook, and bring it to class every week. Each student should sketch, storyboard or write in their sketchbook daily. Students should bring an external storage device with them to class every week.
@@ -54,8 +52,15 @@ Your device is required for the course. Make it a tool for you to use in this cl
 #### Assignments:
 Every class students will be asked to read, watch and share a variety of media experiences as well as share the work they create during in class discussion and critique. Every class will be different. Please pay close attention to the syllabus online as these may change throughout the semester.
 
+
 ---
 #### Grading:
+* Participation 20%
+* Regular assignments 20%
+* Project 1: GIF 10%
+* Project 2: Stop Motion 15%
+* Project 3: AE animation 15%
+* Final Project 20%
 
 ##### Attendance:
 Two (unexcused) absences result in grade drop and four absences result in a failing grade. Late or early departure from class (15 minutes) is the equivalent of ½ absence.
